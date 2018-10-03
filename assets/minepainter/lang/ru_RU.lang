@@ -1,0 +1,13 @@
+itemGroup.minepainter=Художник
+item.chisel.name=Каменное долото
+item.barcutter.name=Железное долото
+item.saw.name=Алмазное долото
+item.canvas.name=Холст
+item.palette.name=Палитра
+item.mini_brush.name=Малая кисть
+item.mixer_brush.name=Кисть
+item.eraser.name=Ластик
+item.wrench.name=Ключ
+item.paint_bucket.name=Ведро краски
+item.sculpture_piece.name=Скульптурный кусок
+item.dropped_sculpture.name=Скульптура
